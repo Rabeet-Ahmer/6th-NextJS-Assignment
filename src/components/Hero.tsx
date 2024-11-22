@@ -47,7 +47,7 @@ const Hero = () => {
       </div>
       <div className="md:bg-[#F7F7F7] justify-self-center gap-6 md:justify-self-auto md:gap-0 py-12 md:px-2 md:py-20 flex flex-col md:flex-row justify-between">
         <p className="hidden md:block font-Roboto font-bold text-2xl">Trusted by 2000+ companies <br /> worldwide.</p>
-        <p className="font-Roboto md:hidden font-bold text-lg px-6 md:px-0">Trusted by the world's best companies <br /> [social proof to build credibility]</p>
+        <p className="font-Roboto md:hidden font-bold text-lg px-6 md:px-0">Trusted by the world&apos;s best companies <br /> [social proof to build credibility]</p>
         <div className="flex gap-[19.12px] overflow-x-scroll md:overflow-x-hidden max-w-[428px] md:max-w-none">
             <Image src={"company1.svg"} alt="companies" width={123.8} height={38.52}/>
             <Image src={"company2.svg"} alt="companies" width={123.8} height={38.52}/>
